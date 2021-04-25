@@ -1,1 +1,8 @@
-
+A csv file labeled election_data contains the raw data for this challenge.
+The file reflects the polling data from an election that was performed in a small, rural town.
+The purpose of this activity is to create a script to provide election results as a means of moderinzing the vote counting process.
+The raw data file from the election contains data such as each individuals voter ID, county of residence, and the chosen canditate.
+WIth that data, the following results were shown:
+the total number of votes casted yeild an amount of 3,521,001
+4 runner-ups from ascendint order with their ballots counted as:
+O'Tooley with a 3.000% vote, Li with a 14.000% vote, Correy with a 20.000% vote, and the winner being Khan with a 63.000% vote.
